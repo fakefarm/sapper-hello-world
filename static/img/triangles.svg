@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1500 1440" clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" style="white-space: preserve-spaces;">
+    <style>
+@keyframes a0_t { 0% { transform: rotate(0deg); } 41.4285% { transform: rotate(0deg); animation-timing-function: cubic-bezier(0.93,0,0.58,1.035); } 51.4285% { transform: rotate(39deg); } 100% { transform: rotate(39deg); } }
+@keyframes a0_f { 0% { fill: #ff5656; animation-timing-function: cubic-bezier(0,0,1,1); } 40% { fill: #ff5656; animation-timing-function: cubic-bezier(0,0,1,1); } 45.7143% { fill: #ffffff; } 100% { fill: #ffffff; } }
+@keyframes a0_d { 0% { d: path('M514.548,676.986L733.91,406.166L928.251,685.89L514.548,676.986Z'); } 14.2857% { d: path('M624.809,648.136L733.91,406.166L928.251,685.89L624.809,648.136Z'); } 100% { d: path('M624.809,648.136L733.91,406.166L928.251,685.89L624.809,648.136Z'); } }
+@keyframes a1_t { 0% { transform: rotate(0deg); } 41.4285% { transform: rotate(0deg); animation-timing-function: cubic-bezier(0.93,0,0.58,1.035); } 51.4285% { transform: rotate(39deg); } 100% { transform: rotate(39deg); } }
+@keyframes a1_f { 0% { fill: none; } 1.4286% { fill: #ffffff; } 45.7143% { fill: #ffffff; } 100% { fill: #ffffff; } }
+@keyframes a1_d { 0% { d: path('M514.548,676.986L733.086,423.905L928.251,685.89L514.548,676.986Z'); } 14.2857% { d: path('M514.548,676.986L733.086,423.905L817.99,714.74L514.548,676.986Z'); } 100% { d: path('M514.548,676.986L733.086,423.905L817.99,714.74L514.548,676.986Z'); } }
+@keyframes a2_t { 0% { transform: rotate(0deg); } 41.4285% { transform: rotate(0deg); animation-timing-function: cubic-bezier(0.93,0,0.58,1.035); } 51.4285% { transform: rotate(39deg); } 100% { transform: rotate(39deg); } }
+@keyframes a2_f { 0% { fill: none; } 1.4286% { fill: #ffffff; } 45.7143% { fill: #ffffff; } 100% { fill: #ffffff; } }
+@keyframes a2_d { 0% { d: path('M611.705,685.054L811.147,559.741L952.817,685.4L611.705,685.054Z'); } 14.2857% { d: path('M696.394,756.976L815.076,616.412L952.817,685.4L696.394,756.976Z'); } 100% { d: path('M696.394,756.976L815.076,616.412L952.817,685.4L696.394,756.976Z'); } }
+@keyframes a3_t { 0% { transform: rotate(0deg); } 41.4285% { transform: rotate(0deg); animation-timing-function: cubic-bezier(0.93,0,0.58,1.035); } 51.4285% { transform: rotate(39deg); } 100% { transform: rotate(39deg); } }
+@keyframes a3_f { 0% { fill: none; } 1.4286% { fill: #ffffff; } 45.7143% { fill: #ffffff; } 100% { fill: #ffffff; } }
+@keyframes a3_d { 0% { d: path('M617.368,671.837L747.179,555.778L930.672,682.953L617.368,671.837Z'); } 14.2857% { d: path('M617.368,671.837L760.042,476.106L930.672,682.953L617.368,671.837Z'); } 100% { d: path('M617.368,671.837L760.042,476.106L930.672,682.953L617.368,671.837Z'); } }
+    </style>
+    <path d="M514.548,676.986L733.91,406.166L928.251,685.89L514.548,676.986Z" fill="#ff5656" stroke="none" stroke-width="1px" style="animation: 7s linear both a0_t, 7s linear both a0_f, 7s linear both a0_d;"/>
+    <g transform="translate(1443.49,1376.24) rotate(-180)">
+        <path d="M514.548,676.986L733.086,423.905L928.251,685.89L514.548,676.986Z" fill="none" stroke="black" stroke-width="1px" style="animation: 7s linear both a1_t, 7s linear both a1_f, 7s linear both a1_d;"/>
+    </g>
+    <g transform="translate(-409.608,728.945) rotate(-52.0962)">
+        <path d="M611.705,685.054L811.147,559.741L952.817,685.4L611.705,685.054Z" fill="none" stroke="black" stroke-width="1px" style="animation: 7s linear both a2_t, 7s linear both a2_f, 7s linear both a2_d;"/>
+    </g>
+    <g transform="translate(939.541,-486.46) rotate(53.9106)">
+        <path d="M617.368,671.837L747.179,555.778L930.672,682.953L617.368,671.837Z" fill="none" stroke="black" stroke-width="1px" style="animation: 7s linear both a3_t, 7s linear both a3_f, 7s linear both a3_d;"/>
+    </g>
+</svg>
